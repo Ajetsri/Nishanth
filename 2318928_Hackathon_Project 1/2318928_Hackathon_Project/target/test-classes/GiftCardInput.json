@@ -1,0 +1,15 @@
+{  
+
+	"Amount":"10000",
+	"Recipient_Name":"Ramavath Rathod",
+	"Recipient_Email":"ramavath",
+	"Recipient_Mobile":"9390622918",
+	"Customer_Name":"Nishanth",
+	"Customer_Email":"nishanth@gmail.com",
+	"Customer_Mobile":"9876543211",
+	"Customer_Address":"Hyderabad",
+	"Customer_PinCode":"500078",
+	"Message":"Happy BirthDay",
+	"Correct_email":"nishanth@gmail.com"
+
+}
