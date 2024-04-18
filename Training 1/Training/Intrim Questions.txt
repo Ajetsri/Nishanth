@@ -1,0 +1,4 @@
+=> FUNCTIONAL TESTING
+
+1)What is Defect Life Cycle? (****)
+2)
